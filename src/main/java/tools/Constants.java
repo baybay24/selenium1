@@ -1,7 +1,7 @@
 package tools;
 
 public class Constants {
-    public static final String DRIVER_TYPE_IE = "IE";
+    public static final String DRIVER_TYPE_IE = "ie";
     public static final String DRIVER_TYPE_CHROME = "chrome";
     public static final String DRIVER_TYPE_FIREFOX = "fireFox";
 
