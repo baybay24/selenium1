@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8683bf0-864f-4ba4-88c9-a0d1ef55a6d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/browser/InitDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/browser/SelectDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/DemoChrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/DemoFirefox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/demo/DemoIE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elements/ConfigureElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elements/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elements/UserDefineData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/elements/WebElementSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/ReadPropertyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UI.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/driver.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/selenium1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/UI.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/browser/InitDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/browser/SelectDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/business/UserDefineData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/data.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo/DemoChrom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo/DemoFirefox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/demo/DemoIE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/driver.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/elements/ConfigureElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/elements/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/elements/WebElementSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/handle/DataController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tools/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tools/ReadPropertyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="269" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\bay\IdeaProjects\selenium1" />
+        <option value="C:\Users\bay\IdeaProjects\selenium1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UVgj88IXO5HB4RwZyDeNAMS57m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bay\IdeaProjects\selenium1\src\main\resources" />
+      <recent name="C:\Users\bay\IdeaProjects\selenium1\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DemoChrom.main">
+    <configuration name="DemoChrom.main" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.DemoChrom" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFirefox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.DemoFirefox" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFirefox.main" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="demo" />
+      <option name="MAIN_CLASS_NAME" value="demo.DemoFirefox" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitDriver.initBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tools" />
+      <option name="MAIN_CLASS_NAME" value="browser.InitDriver" />
+      <option name="METHOD_NAME" value="initBrowser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadPropertyFile.read" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="browser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tools" />
+      <option name="MAIN_CLASS_NAME" value="tools.ReadPropertyFile" />
+      <option name="METHOD_NAME" value="read" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DemoChrom.main" />
+        <item itemvalue="TestNG.DemoFirefox.main" />
+        <item itemvalue="TestNG.InitDriver.initBrowser" />
+        <item itemvalue="TestNG.ReadPropertyFile.read" />
+        <item itemvalue="TestNG.DemoFirefox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8683bf0-864f-4ba4-88c9-a0d1ef55a6d4" name="Default Changelist" comment="" />
+      <created>1575447309902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575447309902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Console" timestamp="1575449457010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Console/0.0.1920.1040@0.0.1920.1040" timestamp="1575449457010" />
+    <state x="594" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1575534038560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575534038560" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575474528835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575474528835" />
+    <state x="1039" y="113" key="CommitChangelistDialog2" timestamp="1575539119265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1039" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1575539119265" />
+    <state x="46" y="133" key="DiffContextDialog" timestamp="1575539115189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="46" y="133" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575539115189" />
+    <state x="411" y="336" key="FileChooserDialogImpl" timestamp="1575538949875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="411" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575538949875" />
+    <state x="995" y="442" width="373" height="172" key="Github.CreateGistDialog" timestamp="1575538809935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="995" y="442" width="373" height="172" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575538809935" />
+    <state x="901" y="349" width="274" height="209" key="Github.ShareDialog" timestamp="1575539023296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="901" y="349" width="274" height="209" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575539023296" />
+    <state x="1155" y="332" key="Github.UntrackedFilesDialog" timestamp="1575538984520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1155" y="332" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575538984520" />
+    <state width="1188" height="321" key="GridCell.Tab.0.bottom" timestamp="1575538781871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1188" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575538781871" />
+    <state width="1188" height="321" key="GridCell.Tab.0.center" timestamp="1575538781870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1188" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575538781870" />
+    <state width="1188" height="321" key="GridCell.Tab.0.left" timestamp="1575538781870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1188" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575538781870" />
+    <state width="1188" height="321" key="GridCell.Tab.0.right" timestamp="1575538781870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1188" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575538781870" />
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom" timestamp="1575537338359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575537338359" />
+    <state width="1877" height="367" key="GridCell.Tab.1.center" timestamp="1575537338359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575537338359" />
+    <state width="1877" height="367" key="GridCell.Tab.1.left" timestamp="1575537338358">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575537338358" />
+    <state width="1877" height="367" key="GridCell.Tab.1.right" timestamp="1575537338359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575537338359" />
+    <state x="1028" y="223" key="NewModule_or_Project.wizard" timestamp="1575539226386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1028" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575539226386" />
+    <state x="858" y="174" key="SettingsEditor" timestamp="1575538964989">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="858" y="174" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575538964989" />
+    <state x="980" y="256" key="Vcs.Push.Dialog.v2" timestamp="1575539140197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575539140197" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1575464133686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575464133686" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium1$DemoFirefox.ic" NAME="DemoFirefox Coverage Results" MODIFIED="1575457524807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/selenium1$C__Users_bay_IdeaProjects_selenium1_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1575449523725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
