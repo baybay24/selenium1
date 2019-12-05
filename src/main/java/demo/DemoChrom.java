@@ -14,14 +14,6 @@ public class DemoChrom {
 	public void main() {
 		// TODO Auto-generated method stub
 
-//		System.setProperty("webdriver.chrome.driver", "D:\\software\\driver\\chromedriver.exe");
-//
-//		WebDriver driver = new ChromeDriver();
-//
-//		driver.get("http://www.baidu.com");
-//		driver.findElement(By.id("kw")).sendKeys("jmeter性能测试");
-//		driver.findElement(By.id("su")).submit();
-
 		WebDriver driver = InitDriver.initBrowser("chrome");
 
 		driver.get("http://www.baidu.com");
